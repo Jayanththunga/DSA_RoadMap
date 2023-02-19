@@ -1,3 +1,16 @@
+LinkedList:..............................................
+
+1. creating node/ Implementing LL
+2. Basics
+3. Taking input
+4. adding Node, Deleting Node
+5. Basic-problems
+
+Stacks & Queues:..........................................
+
+1. Implementing Stacks and Qyues using Arrays and LL
+2. problems using collections
+
 Binary Trees:.............................................
 
 1. Intro to Binary Trees
