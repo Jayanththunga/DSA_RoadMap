@@ -1,0 +1,89 @@
+Binary Trees:.............................................
+
+1. Intro to Binary Trees
+2. How to travel through root, left, right nodes.
+3. Pre-order, Post-order, In-order, Level wise.
+4. Height, depth (Basics)
+
+5. Mirror, Diameter***
+6. BT using In-order and pre-order
+7. BT using In-order and post-order
+
+8. Insert node, delete Node
+9. Maximum and Minimum in Tree
+
+10. Tough Questions....
+
+
+Binary Search Trees:........................................
+
+1. Basics
+2. Search in BST
+3. isBST
+4. Construct BST
+5. BST to LL
+6. LCA of BST(standard question)
+
+7. BST class
+8. Tough Questions
+
+
+Trees:.......................................................
+
+1. Basics
+2. Some standard Questions
+
+
+HashMaps:.....................................................
+
+1. Basics
+2. explanation and many topics 
+3. Implementing Hash Map
+4. Hash Map (inbuilt)
+
+
+priority queues:...............................................
+
+1. Basics
+2. explanation and many topics 
+3. heaps
+4. Implementing min- and max heaps
+
+5. Heap Sort
+6. priorityQueues (inbuilt) - min and max
+
+
+Tries and HuffMan coding:.......................................
+
+1. Intro
+2. some probs
+
+Recursion 3:....................................................
+
+1. approach - permutation problems
+2. storing and printing
+3. probs
+
+Back-tracking:..................................................
+
+1. approach
+2. Standard probs -- N-que, check parantheses, rat in the maze
+
+Dinamic Programming:............................................
+
+1. Basics
+2. approach
+3. Recursion types and Iterative approach
+
+Graphs:.........................................................
+
+1. Basics
+2. BFS and DFS
+3. Questions using Graphs
+
+4. Minimum Spanning Tree - 
+    Kruskal’s, 
+    Prims, 
+    Dijkstra’s Algorithms.
+
+==================================================================
